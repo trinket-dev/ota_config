@@ -1,14 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1667324233",
-      "filename": "Arrow-v13.0-amogus-COMMUNITY-20221101-VANILLA.zip",
-      "id": "cf8f2da128f1dfec1389d0ce1d45b06e75e668eed9bef615c62e1a9aded9e0d6",
+      "datetime": "1669848710",
+      "filename": "Arrow-v13.0-amogus-COMMUNITY-20221130-GAPPS.zip",
+      "id": "f712b43f690c61e8ac31cad41a70cffed8408b190b3098794fea0343a1546e8e",
       "romtype": "COMMUNITY",
-      "size": "845531764",
-      "url": "https://sourceforge.net/projects/amogus-family/files/ArrowOS-Beta/Arrow-v13.0-amogus-COMMUNITY-20221101-VANILLA.zip/download",
+      "size": "1203625361",
+      "url": "https://sourceforge.net/projects/amogus-family/files/ArrowOS-Beta/Arrow-v13.0-amogus-COMMUNITY-20221130-GAPPS.zip/download",
       "version": "v13.0"
     }
   ]
 }
-
